@@ -229,7 +229,7 @@ El pipeline automatizado incluye:
 # Instalación de dependencias
 npm install
 
-# Desarrollo local
+# Desarrollo en local
 npm run dev
 
 # Ejecutar tests
